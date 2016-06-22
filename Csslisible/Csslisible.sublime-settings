@@ -1,0 +1,14 @@
+{
+  // See the readme here https://github.com/thierrylemoulec/Sublime-Csslisible
+  // for all the settings offered by the API
+  "distance_selecteurs": "0",
+  "type_indentation": "0",
+  "type_separateur": "0",
+  "selecteurs_multiples_separes": "0",
+  "valeurs_multiples_separees": "0",
+  "hex_colors_format": "upper",
+  "colors_format": "Hex",
+  "raccourcir_valeurs": "0",
+  // Select a different url for the csslisible API
+  "csslisible_URL": "http://csslisible.com/"
+}
